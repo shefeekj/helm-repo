@@ -3,25 +3,12 @@ entries:
   wordpress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-10-07T05:21:04.9604632-07:00"
+    created: "2020-10-27T09:40:02.6076068Z"
     description: A Helm chart for Kubernetes
-    digest: fcbe92ffb045e8b41c28ab77825e391a4ce0ca3c648b708b6370b78f36167360
+    digest: 0d8e3c795376f10716331e5c06f7dff2704f4a8cde50c8f3c81083eea2a692b7
     name: wordpress
     type: application
     urls:
-    - https://shefeekj.github.io/helm-repo/wordpress-0.1.0.tgz
+    - https://shefeekj.github.io/helm-repo/wordpress-0.1.0.tgz/wordpress-0.1.0.tgz
     version: 0.1.0
-  wordpress-mysql-stateless:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2020-10-21T22:31:53.4829681-07:00"
-    description: A Helm chart for Kubernetes
-    digest: 0be64ac151ee1a094e22d247d9f876080a6a10d78d27af641300a6c38ad454bf
-    name: wordpress-mysql-stateless
-    type: application
-    urls:
-    - https://shefeekj.github.io/helm-repo/wordpress-mysql-stateless-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-10-07T05:21:04.9554625-07:00"
-
-  
+generated: "2020-10-27T09:40:02.606604Z"
