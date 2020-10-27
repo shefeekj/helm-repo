@@ -9,6 +9,6 @@ entries:
     name: wordpress
     type: application
     urls:
-    - https://shefeekj.github.io/helm-repo/wordpress-0.1.0.tgz/wordpress-0.1.0.tgz
+    - https://shefeekj.github.io/helm-repo/wordpress-0.1.0.tgz
     version: 0.1.0
 generated: "2020-10-27T09:40:02.606604Z"
