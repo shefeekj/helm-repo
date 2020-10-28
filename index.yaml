@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  phpmyadmin:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-28T09:03:37.6391289Z"
+    description: A Helm chart for Kubernetes
+    digest: 5cb50bf58ee94c06361c630e648bb0455bc0a10fef42f579f6dad0cf4f15b198
+    name: phpmyadmin
+    type: application
+    urls:
+    - https://shefeekj.github.io/helm-repo/phpmyadmin-0.1.0.tgz
+    version: 0.1.0
   wordpress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-10-27T12:47:18.4147946Z"
+    created: "2020-10-28T09:03:37.6401293Z"
     description: A Helm chart for Kubernetes
     digest: f002c70fc8dbd8105777dedde8d29ea2df379ca32877112d6fd88420b3dad7c9
     name: wordpress
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://shefeekj.github.io/helm-repo/wordpress-0.1.0.tgz
     version: 0.1.0
-generated: "2020-10-27T12:47:18.4137942Z"
+generated: "2020-10-28T09:03:37.6381378Z"
